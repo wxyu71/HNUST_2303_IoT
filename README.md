@@ -2,13 +2,17 @@
 本仓库会收集一些计算机科学学习资料，欢迎大家积极投稿。
 大家可以在Issues区记录自己的学习历程，互相帮助，督促学习。
 
-## 自学资料
+## cs自学资料
 - [cs自学指南](https://csdiy.wiki/)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
-
+- 
+## 英语学习资料
+- [欧陆词典](https://zhuanlan.zhihu.com/p/36410902)
+- 
 ## HNUST考试资料
 - [HNUSTexam](https://github.com/3210448723/HnustExam)
 - [HnusterComputer](https://github.com/Lyfive/HnusterComputer)
+- 
   
 ## 注
 - 如果有什么不会的，首先使用google.com进行搜索
