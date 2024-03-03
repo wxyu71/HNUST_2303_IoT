@@ -5,6 +5,7 @@
 ## cs自学资料
 - [cs自学指南](https://csdiy.wiki/)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
+- [SJTU-Application](https://survivesjtu.github.io/SJTU-Application/#/)
 - 
 ## 英语学习资料
 - [欧陆词典](https://zhuanlan.zhihu.com/p/36410902)
