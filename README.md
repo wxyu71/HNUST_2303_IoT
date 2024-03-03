@@ -8,7 +8,7 @@
 
 ## HNUST考试资料
 - [HNUSTexam](https://github.com/3210448723/HnustExam)
-- [HnusterComputer](HnusterComputer)
+- [HnusterComputer](https://github.com/Lyfive/HnusterComputer)
   
 ## 注
 - 如果有什么不会的，首先使用google.com进行搜索
