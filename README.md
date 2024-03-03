@@ -6,6 +6,10 @@
 - [cs自学指南](https://csdiy.wiki/)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
+## HNUST考试资料
+- [HNUSTexam](https://github.com/3210448723/HnustExam)
+- [HnusterComputer](HnusterComputer)
+  
 ## 注
 - 如果有什么不会的，首先使用google.com进行搜索
 - 不要触碰政治，不要触犯法律底线，更不要发表任何评价，会有喝茶的风险
