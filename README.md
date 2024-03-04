@@ -11,7 +11,6 @@
 - [欧陆词典](https://zhuanlan.zhihu.com/p/36410902)
 - 
 ## HNUST考试资料
-- [HNUSTexam](https://github.com/3210448723/HnustExam)
 - [HnusterComputer](https://github.com/Lyfive/HnusterComputer)
 - 
   
